@@ -3,7 +3,8 @@ name: Daily Reddit Post Bot
 on:
   schedule:
     - cron: "0 3 * * *"  # Runs every day at 3 AM UTC (8:30 AM IST)
-  workflow_dispatch:     # Allows manual run from GitHub UI
+  workflow_dispatch: # Allows manual run from GitHub UI
+
 
 jobs:
   run-reddit-bot:
