@@ -21,15 +21,15 @@ def save_posted2(posted_set):
 
 def post_meme():
     posted = load_posted2()
-    with open("memes.json", "r") as f:
+    with open("redditwords.json", "r") as f:
         memes = json.load(f)
 
     for meme in memes:
-        image_url = meme["image_url"]
+        image_url = meme["memeurl"]
         if image_url in posted:
             continue
-        caption = meme["caption"]
-        description = meme["description"]
+        caption = meme["word"]
+        description = meme["definition"]
         # title = caption.strip()
         # print(f"Posting meme: {title}")
         post_to_reddit(caption, image_url, description)
@@ -37,9 +37,8 @@ def post_meme():
         save_posted2(posted)
         break
 
-# schedule.every().day.at("8:00").do(post_meme)
-schedule.every(1).minute.do(post_meme)
-
+schedule.every().day.at("20:00").do(post_meme)
+# schedule.every(1).minute.do(post_meme)
 
 def start_bot():
     print("LangChain Reddit Bot is running........")

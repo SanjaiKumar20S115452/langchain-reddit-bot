@@ -1,0 +1,502 @@
+[
+  {
+    "word": "Caustic",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725987142/wordcorn/wordImages/memes/caustic_z55uv2.png",
+    "definition": "able to burn or corrode organic tissue by chemical action"
+  },
+  {
+    "word": "Chicanery",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331976/wordcorn/wordImages/memes/chicanery_gocpdc.png",
+    "definition": "the use of deception or subterfuge to achieve one's purpose."
+  },
+  {
+    "word": "Coalesce",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331976/wordcorn/wordImages/memes/coalesce_mjkrkj.png",
+    "definition": "come together and form one mass or whole."
+  },
+  {
+    "word": "Cogent",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331977/wordcorn/wordImages/memes/cogent_ywrbto.png",
+    "definition": "clear, logical, and convincing"
+  },
+  {
+    "word": "Contrite",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725987141/wordcorn/wordImages/memes/contrite_f43gmk.png",
+    "definition": "feeling or expressing remorse or penitence; affected by guilt."
+  },
+  {
+    "word": "Copious",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331985/wordcorn/wordImages/memes/copious_tikvmi.png",
+    "definition": "abundant in supply or quantity"
+  },
+  {
+    "word": "Decorum",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725987145/wordcorn/wordImages/memes/decorum_nnyjab.png",
+    "definition": "behavior in keeping with good taste and propriety."
+  },
+  {
+    "word": "Deference",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331982/wordcorn/wordImages/memes/deference_ymbbp9.png",
+    "definition": "respectful submission or yielding to the judgment, opinion, will, etc., of another."
+  },
+  {
+    "word": "Desiccate",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725987145/wordcorn/wordImages/memes/Desiccate_zmmt5v.png",
+    "definition": "remove the moisture from (something), typically in order to preserve it."
+  },
+  {
+    "word": "Desultory",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331982/wordcorn/wordImages/memes/desultory_symmpb.png",
+    "definition": "lacking a plan or purpose; unmethodical."
+  },
+  {
+    "word": "Diatribe",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725987147/wordcorn/wordImages/memes/diatribe_nyufem.png",
+    "definition": "a forceful and bitter verbal attack against someone or something"
+  },
+  {
+    "word": "Disparate",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726346576/wordcorn/wordImages/memes/disparate.jpg",
+    "definition": "essentially different in kind; not allowing comparison."
+  },
+  {
+    "word": "Emulate",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726346576/wordcorn/wordImages/memes/emulate.jpg",
+    "definition": "to match or surpass (a person or achievement), typically by imitation"
+  },
+  {
+    "word": "Enervate",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726352716/wordcorn/wordImages/memes/enervate.jpg",
+    "definition": "to cause someone or something to feel drained of energy or vitality, to weaken or destroy the strength or vitality of someone or something."
+  },
+  {
+    "word": "Ephemeral",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726353106/wordcorn/wordImages/memes/ephemeral.jpg",
+    "definition": "lasting for a very short time; short-lived; transitory."
+  },
+  {
+    "word": "Equivocate",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331989/wordcorn/wordImages/memes/equivocate_haygqr.png",
+    "definition": "use ambiguous or unclear expressions, usually to avoid commitment or in order to mislead"
+  },
+  {
+    "word": "abate",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331994/wordcorn/wordImages/memes/abate_whjwo7.png",
+    "definition": "to reduce in amount, degree, or intensity"
+  },
+  {
+    "word": "abstain",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726346204/wordcorn/wordImages/memes/abstain.jpg",
+    "definition": "restrain oneself from doing or enjoying something"
+  },
+  {
+    "word": "adulterate",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725945519/wordcorn/wordImages/memes/adulterate_seqdes.png",
+    "definition": "render (something) poorer in quality by adding another substance"
+  },
+  {
+    "word": "antipathy",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331966/wordcorn/wordImages/memes/antipathy_ezgqvc.png",
+    "definition": "a strong feeling of dislike or opposition"
+  },
+  {
+    "word": "assuage",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331970/wordcorn/wordImages/memes/assuage_zkwhni.png",
+    "definition": "make (an unpleasant feeling) less intense"
+  },
+  {
+    "word": "banal",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725945521/wordcorn/wordImages/memes/banal_owuo16.png",
+    "definition": "so lacking in originality as to be obvious and boring"
+  },
+  {
+    "word": "belie",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158013/wordcorn/wordImages/memes/belie_npkots.png",
+    "definition": "fail to give a true notion or impression of (something); disguise or contradict"
+  },
+  {
+    "word": "burgeon",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331969/wordcorn/wordImages/memes/burgeon_z1msqj.png",
+    "definition": "begin to grow or increase rapidly; flourish"
+  },
+  {
+    "word": "candid",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725945517/wordcorn/wordImages/memes/candid_cixgta.png",
+    "definition": "truthful and straightforward; frank"
+  },
+  {
+    "word": "capricious",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158013/wordcorn/wordImages/memes/capricious_nkghhe.png",
+    "definition": "given to sudden and unaccountable changes of mood or behavior"
+  },
+  {
+    "word": "castigate",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725987142/wordcorn/wordImages/memes/castigate_xurimb.png",
+    "definition": "reprimand (someone) severely"
+  },
+  {
+    "word": "garrulous",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726353595/wordcorn/wordImages/memes/garrulous.jpg",
+    "definition": "excessively talkative, especially on trivial matters"
+  },
+  {
+    "word": "alacrity",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725945519/wordcorn/wordImages/memes/alacrity_nj9v4g.png",
+    "definition": "eager and cheerful readiness"
+  },
+  {
+    "word": "ascetic",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331968/wordcorn/wordImages/memes/ascetic_y0kvw6.png",
+    "definition": "characterized by severe self-discipline and abstention from all forms of indulgence, typically for religious reasons"
+  },
+  {
+    "word": "censure",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331976/wordcorn/wordImages/memes/censure_nlqx89.png",
+    "definition": "express severe disapproval of, typically in a formal statement"
+  },
+  {
+    "word": "craven",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725987142/wordcorn/wordImages/memes/Craven_uouj0y.png",
+    "definition": "lacking in courage, cowardly"
+  },
+  {
+    "word": "demur",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725987144/wordcorn/wordImages/memes/demur_t6pg5m.png",
+    "definition": "raise objections or show reluctance"
+  },
+  {
+    "word": "didactic",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158018/wordcorn/wordImages/memes/didactic_sucokn.png",
+    "definition": "intended to teach, particularly in having moral instruction as an ulterior motive"
+  },
+  {
+    "word": "diffident",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331983/wordcorn/wordImages/memes/diffident_v2qi1a.png",
+    "definition": "modest or shy because of a lack of self-confidence"
+  },
+  {
+    "word": "insipid",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158022/wordcorn/wordImages/memes/insipid_ior04n.png",
+    "definition": "lacking flavor, lacking in qualities that interest, stimulate, or challenge; dull"
+  },
+  {
+    "word": "obsequious",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158024/wordcorn/wordImages/memes/Obsequious_f59uuu.png",
+    "definition": "excessively obedient or attentive, ingratiating to an excessive degree"
+  },
+  {
+    "word": "prodigal",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331990/wordcorn/wordImages/memes/prodigal_wf6vgo.png",
+    "definition": "spending money or resources recklessly; wastefully extravagant"
+  },
+  {
+    "word": "taciturn",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158027/wordcorn/wordImages/memes/taciturn_emndds.png",
+    "definition": "reserved or uncommunicative in speech; saying little"
+  },
+  {
+    "word": "abjure",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331995/wordcorn/wordImages/memes/abjure_gl5xeo.png",
+    "definition": "to renounce or retract, especially formally, solemnly, or under oath"
+  },
+  {
+    "word": "ameliorate",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725945521/wordcorn/wordImages/memes/ameliorate_ct9rj7.png",
+    "definition": "to make something better, especially by removing or reducing something bad or unpleasant"
+  },
+  {
+    "word": "amenable",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725945519/wordcorn/wordImages/memes/amenable_wfywzc.png",
+    "definition": "open and responsive to suggestion; easily persuaded or controlled"
+  },
+  {
+    "word": "approbation",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726346575/wordcorn/wordImages/memes/approbation.jpg",
+    "definition": "approval or praise, especially formal approval"
+  },
+  {
+    "word": "arcane",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331967/wordcorn/wordImages/memes/arcane_c3pyd2.png",
+    "definition": "understood by few; mysterious or secret"
+  },
+  {
+    "word": "benign",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725945522/wordcorn/wordImages/memes/benign_aaiyuw.png",
+    "definition": "gentle and kind; not harmful; mild"
+  },
+  {
+    "word": "bucolic",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331971/wordcorn/wordImages/memes/bucolic_uvykf9.png",
+    "definition": "relating to the pleasant aspects of the countryside and country life; rustic and pastoral"
+  },
+  {
+    "word": "corroborate",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726346575/wordcorn/wordImages/memes/corroborate.jpg",
+    "definition": "to confirm or support with evidence or authority; make more certain"
+  },
+  {
+    "word": "abound",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158020/wordcorn/wordImages/memes/abound.png",
+    "definition": "to exist in large numbers or amounts; to be plentiful"
+  },
+  {
+    "word": "amorphous",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158013/wordcorn/wordImages/memes/amorphous.png",
+    "definition": "lacking a definite form or clear shape; formless"
+  },
+  {
+    "word": "austere",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158013/wordcorn/wordImages/memes/austere_g2boyx.png",
+    "definition": "severe or strict in manner, attitude, or appearance; without luxury"
+  },
+  {
+    "word": "congenial",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158017/wordcorn/wordImages/memes/congenial_srfvhr.png",
+    "definition": "pleasant and friendly; suited to one's taste or nature"
+  },
+  {
+    "word": "conspicuous",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158015/wordcorn/wordImages/memes/conspicuous_qgqi2c.png",
+    "definition": "easily seen or noticed; attracting attention; standing out"
+  },
+  {
+    "word": "cursory",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158015/wordcorn/wordImages/memes/cursory_t7jkok.png",
+    "definition": "hasty and often superficial; not thorough or detailed"
+  },
+  {
+    "word": "daunting",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158017/wordcorn/wordImages/memes/daunting_of8b6v.png",
+    "definition": "seeming difficult to deal with in anticipation; intimidating; challenging"
+  },
+  {
+    "word": "deify",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158017/wordcorn/wordImages/memes/deify_tenvde.png",
+    "definition": "to worship or regard as a god; to idolize"
+  },
+  {
+    "word": "disseminate",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158018/wordcorn/wordImages/memes/disseminate_i1z4ct.png",
+    "definition": "to spread widely; to scatter or distribute"
+  },
+  {
+    "word": "flout",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158019/wordcorn/wordImages/memes/flout_dn6k4g.png",
+    "definition": "to openly disregard or disobey; to mock or scoff at"
+  },
+  {
+    "word": "homogeneous",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158020/wordcorn/wordImages/memes/homogeneous_bymwfv.png",
+    "definition": "of the same or a similar kind; uniform in structure or composition"
+  },
+  {
+    "word": "humdrum",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158019/wordcorn/wordImages/memes/humdrum_a8fzmq.png",
+    "definition": "lacking excitement or variety; monotonous; dull"
+  },
+  {
+    "word": "loquacious",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158021/wordcorn/wordImages/memes/loquacious_lgtg8o.png",
+    "definition": "very talkative; chatty; garrulous"
+  },
+  {
+    "word": "misanthropic",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158023/wordcorn/wordImages/memes/Misanthropic_ljb3aa.png",
+    "definition": "disliking or distrusting humanity; having a general disdain for human beings"
+  },
+  {
+    "word": "misnomer",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158022/wordcorn/wordImages/memes/misnomer_uqp4pg.png",
+    "definition": "a name or term that is misleading, incorrect, or inappropriate"
+  },
+  {
+    "word": "placate",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158025/wordcorn/wordImages/memes/Placate_duygee.png",
+    "definition": "to make someone less angry or hostile; to appease or pacify"
+  },
+  {
+    "word": "proclivity",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158027/wordcorn/wordImages/memes/proclivity_xojnvj.png",
+    "definition": "a natural tendency or inclination; a predisposition"
+  },
+  {
+    "word": "puerile",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158024/wordcorn/wordImages/memes/puerile_vpsce4.png",
+    "definition": "childish; juvenile; silly"
+  },
+  {
+    "word": "quixotic",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158025/wordcorn/wordImages/memes/quixotic_vyu9kv.png",
+    "definition": "extremely idealistic; unrealistic and impractical; resembling the qualities of Don Quixote"
+  },
+  {
+    "word": "spendthrift",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158026/wordcorn/wordImages/memes/spendthrift_by0tga.png",
+    "definition": "a person who spends money extravagantly or wastefully; recklessly extravagant"
+  },
+  {
+    "word": "wary",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158013/wordcorn/wordImages/memes/wary_en8sh8.png",
+    "definition": "cautious and watchful; being on guard against possible danger"
+  },
+  {
+    "word": "aggrandize",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725945521/wordcorn/wordImages/memes/aggrandize_murump.png",
+    "definition": "to increase the power, status, or wealth of; to enhance the reputation of; to exaggerate or make greater than it is"
+  },
+  {
+    "word": "ambivalent",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726713570/ambivalent_cntci5.jpg",
+    "definition": "having mixed feelings or contradictory attitudes towards something; uncertain or conflicted"
+  },
+  {
+    "word": "anachronistic",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725945520/wordcorn/wordImages/memes/anachronistic_bxgayf.png",
+    "definition": "belonging to a period other than that being portrayed; out of date; not in chronological order"
+  },
+  {
+    "word": "audacious",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725945522/wordcorn/wordImages/memes/Audacious_rkigeu.png",
+    "definition": "showing a willingness to take surprisingly bold risks; showing an impudent lack of respect; daring and fearless"
+  },
+  {
+    "word": "avaricious",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725945522/wordcorn/wordImages/memes/Avaricious_osnu1f.png",
+    "definition": "having an extreme greed for wealth or material gain; characterized by avarice"
+  },
+  {
+    "word": "brazen",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725945522/wordcorn/wordImages/memes/brazen_rmhyhq.png",
+    "definition": "bold and without shame; made of brass or resembling brass in color or hardness"
+  },
+  {
+    "word": "calumny",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725945523/wordcorn/wordImages/memes/calumny_tsmzvx.png",
+    "definition": "the making of false and defamatory statements about someone with the intention of damaging their reputation; slander"
+  },
+  {
+    "word": "construe",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725987145/wordcorn/wordImages/memes/Construe_olj8rm.png",
+    "definition": "to interpret or explain the meaning of something; to deduce or infer"
+  },
+  {
+    "word": "convoluted",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725987143/wordcorn/wordImages/memes/convoluted_d0lm8c.png",
+    "definition": "extremely complex and difficult to follow; intricately folded, twisted, or coiled"
+  },
+  {
+    "word": "covet",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725987144/wordcorn/wordImages/memes/covet_i1vw7e.png",
+    "definition": "to desire or wish for earnestly, especially something that belongs to someone else"
+  },
+  {
+    "word": "deft",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725987144/wordcorn/wordImages/memes/deft_moag4y.png",
+    "definition": "skillful and quick in one's movements; demonstrating cleverness and dexterity"
+  },
+  {
+    "word": "derivative",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725987145/wordcorn/wordImages/memes/derivative_qbln1o.png",
+    "definition": "imitative of the work of another person, often with the intent to derive financial benefit; lacking originality; something that is based on another source"
+  },
+  {
+    "word": "incredulous",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725987147/wordcorn/wordImages/memes/incredulous_f3lcpd.png",
+    "definition": "unwilling or unable to believe something; skeptical; expressing disbelief"
+  },
+  {
+    "word": "ingenuous",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725987140/wordcorn/wordImages/memes/ingenuous_f2zyay.png",
+    "definition": "innocent, childlike, and candid; lacking in sophistication or worldliness; straightforward and honest"
+  },
+  {
+    "word": "anomalous",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331995/wordcorn/wordImages/memes/Anomalous_ane7a6.png",
+    "definition": "deviating from what is standard, normal, or expected; unusual or unexpected"
+  },
+  {
+    "word": "arduous",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331967/wordcorn/wordImages/memes/arduous_vd9ytc.png",
+    "definition": "requiring a lot of effort and hard work; difficult and strenuous"
+  },
+  {
+    "word": "canonize",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331975/wordcorn/wordImages/memes/canonize_sw49du.png",
+    "definition": "to officially declare someone as a saint in the Roman Catholic Church; to consider someone or something as being above all others in terms of excellence or importance"
+  },
+  {
+    "word": "cosmopolitan",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331981/wordcorn/wordImages/memes/cosmopolitan_hpu7p4.png",
+    "definition": "having an international and sophisticated outlook; familiar with and at ease in many different countries and cultures"
+  },
+  {
+    "word": "dilatory",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331988/wordcorn/wordImages/memes/dilatory_vkewhg.png",
+    "definition": "intentionally delaying or procrastinating; tending to cause delay"
+  },
+  {
+    "word": "polarize",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331990/wordcorn/wordImages/memes/polarize_zzass0.png",
+    "definition": "to divide or cause to divide into two sharply contrasting groups or sets of opinions or beliefs"
+  },
+  {
+    "word": "verbose",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331992/wordcorn/wordImages/memes/verbose_xsdeik.png",
+    "definition": "using or expressed in more words than needed; long-winded; excessively detailed or elaborate"
+  },
+  {
+    "word": "cherish",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726346575/wordcorn/wordImages/memes/cherish.jpg",
+    "definition": "to hold dear, feel or show affection for, and protect with care; to value and treasure"
+  },
+  {
+    "word": "fervid",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726353375/wordcorn/wordImages/memes/fervid.jpg",
+    "definition": "intensely enthusiastic or passionate, especially in expressing strong feelings"
+  },
+  {
+    "word": "advocate",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1730873751/wordcorn/wordImages/memes/advocate_nnfc63.jpg",
+    "definition": "a person who publicly supports or recommends a particular cause or policy"
+  },
+  {
+    "word": "artless",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331969/wordcorn/wordImages/memes/artless_fu5sfg.png",
+    "definition": "lacking art, knowledge, or skill; naively simple; showing a lack of artifice or cunning; ingenuous"
+  },
+  {
+    "word": "betray",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331968/wordcorn/wordImages/memes/betray_vvhzyq.png",
+    "definition": "to deceive or be disloyal to someone's trust"
+  },
+  {
+    "word": "cacophonous",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331975/wordcorn/wordImages/memes/cacophonous_ybdegf.png",
+    "definition": "involving or producing harsh, discordant sounds"
+  },
+  {
+    "word": "cerebral",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158015/wordcorn/wordImages/memes/Cerebral_t6y7yn.png",
+    "definition": "relating to the brain or intellect"
+  },
+  {
+    "word": "compelling",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331981/wordcorn/wordImages/memes/compelling_yk7tuo.png",
+    "definition": "evoking interest, attention, or admiration in a powerfully irresistible way"
+  },
+  {
+    "word": "contend",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331985/wordcorn/wordImages/memes/contend_e8ckxt.png",
+    "definition": "to struggle in opposition"
+  },
+  {
+    "word": "feasible",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158019/wordcorn/wordImages/memes/feasible_zbvtzk.png",
+    "definition": "capable of being accomplished or put into practice; possible"
+  },
+  {
+    "word": "negligent",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158022/wordcorn/wordImages/memes/Negligent_dpnugd.png",
+    "definition": "failing to take proper care or showing a lack of concern"
+  }
+]
