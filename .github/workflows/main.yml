@@ -2,7 +2,7 @@ name: Daily Reddit Post Bot
 
 on:
   schedule:
-    - cron: "0 3 * * *"  # Runs every day at 3 AM UTC (8:30 AM IST)
+    - cron: "0 3 * * *"  # Runs every day at 3 AM UTC (8:00 PM IST)
   workflow_dispatch: # Allows manual run from GitHub UI
 
 
@@ -31,4 +31,4 @@ jobs:
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
           REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
           REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
-        run: python your_script.py  # replace with your actual script name
+        run: python main_scheduler.py  # replace with your actual script name
