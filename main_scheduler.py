@@ -10,31 +10,43 @@ def load_posted2():
         if os.path.exists(POSTED_LOG):
             with open(POSTED_LOG, "r") as f:
                 data = json.load(f)
-                return set(data if data is not None else [])
+                return set(data or [])
     except Exception as e:
         print("Error loading posted_log.json:", e)
         return set()
     
 def save_posted2(posted_set):
-    with open(POSTED_LOG, "w") as f:
-        json.dump(list(posted_set), f)
+    try:
+        with open(POSTED_LOG, "w") as f:
+            json.dump(list(posted_set), f)
+    except Exception as e:
+        print("Error saving posted_log.json")
 
 def post_meme():
     posted = load_posted2()
-    with open("redditwords.json", "r") as f:
-        memes = json.load(f)
+    try:
+        with open("redditwords.json", "r") as f:
+            memes = json.load(f)
+    except Exception as e:
+        print("Error loading memes JSON:", e)
+        return 
 
     for meme in memes:
         image_url = meme["memeurl"]
-        if image_url in posted:
+        if not image_url or image_url in posted:
             continue
-        caption = meme["word"]
-        description = meme["definition"]
+
+        caption = meme["word", "Untitled"]
+        description = meme["definition", ""]
         # title = caption.strip()
         # print(f"Posting meme: {title}")
-        post_to_reddit(caption, image_url, description)
-        posted.add(image_url)
-        save_posted2(posted)
+        try:
+            post_to_reddit(caption, image_url, description)
+            posted.add(image_url)
+            save_posted2(posted)
+            print(f"Posted: {caption}")
+        except Exception as e:
+            print("Error posting to Reddit:", e)
         break
 
 # schedule.every().day.at("20:00").do(post_meme)
