@@ -51,17 +51,13 @@ def post_meme():
             print("Error posting to Reddit:", e)
         break
 
-schedule.every().day.at("00:42").do(post_meme)
+schedule.every().day.at("00:55").do(post_meme)
 # schedule.every(1).minute.do(post_meme)
 
 def start_bot():
     print("LangChain Reddit Bot is running........")
-    while True:
-        schedule.run_pending()
-        time.sleep(60)
-
-if __name__ == "__main__":
-    start_bot()
+    post_meme()
+    
 
 
     # def load_posted():
