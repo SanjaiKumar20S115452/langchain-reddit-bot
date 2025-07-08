@@ -39,7 +39,11 @@ def post_meme():
             continue
 
         caption = meme.get("word", "")
-        description = meme.get("definition", "")
+        description = (
+    meme.get("definition", "")
+    + "\n\n**Word:** " + meme.get("word", "")
+    + "\n\nLearn more words at [www.wordcorn.co](http://www.wordcorn.co)"
+)
         # title = caption.strip()
         # print(f"Posting meme: {title}")
         try:
@@ -51,7 +55,7 @@ def post_meme():
             print("Error posting to Reddit:", e)
         break
 
-schedule.every().day.at("20:00").do(post_meme)
+schedule.every().day.at("00:00").do(post_meme)
 # schedule.every(1).minute.do(post_meme)
 
 def start_bot():
