@@ -10,7 +10,9 @@ def load_posted2():
         if os.path.exists(POSTED_LOG):
             with open(POSTED_LOG, "r") as f:
                 data = json.load(f)
-                return set(data or [])
+                return set(data if data is not None else [])
+        else:
+            return set()
     except Exception as e:
         print("Error loading posted_log.json:", e)
         return set()
