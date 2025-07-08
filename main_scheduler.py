@@ -51,8 +51,8 @@ def post_meme():
             print("Error posting to Reddit:", e)
         break
 
-# schedule.every().day.at("20:00").do(post_meme)
-schedule.every(1).minute.do(post_meme)
+schedule.every().day.at("20:00").do(post_meme)
+# schedule.every(1).minute.do(post_meme)
 
 def start_bot():
     print("LangChain Reddit Bot is running........")
