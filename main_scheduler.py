@@ -38,8 +38,8 @@ def post_meme():
         if not image_url or image_url in posted:
             continue
 
-        caption = meme["word", "Untitled"]
-        description = meme["definition", ""]
+        caption = meme["word"]
+        description = meme["definition"]
         # title = caption.strip()
         # print(f"Posting meme: {title}")
         try:
