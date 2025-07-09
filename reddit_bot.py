@@ -33,7 +33,4 @@ def post_to_reddit(title, image_url, description, subreddit_name="wordcorn"):
 
     # Cleanup
     os.remove(temp_filename)
-<<<<<<< HEAD
-    print(f"✅ Posted to r/{subreddit_name}: {title}")
-=======
     print(f"✅ Posted to r/{subreddit_name}: {title}")
