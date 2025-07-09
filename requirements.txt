@@ -36,4 +36,4 @@ update-checker==0.18.0
 urllib3==2.5.0
 websocket-client==1.8.0
 zstandard==0.23.0
-firebase-admin
+firebase-admin==6.5.0
