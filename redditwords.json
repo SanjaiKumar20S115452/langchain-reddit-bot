@@ -1,10 +1,5 @@
 [
   {
-    "word": "Chicanery",
-    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331976/wordcorn/wordImages/memes/chicanery_gocpdc.png",
-    "definition": "the use of deception or subterfuge to achieve one's purpose."
-  },
-  {
     "word": "Coalesce",
     "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331976/wordcorn/wordImages/memes/coalesce_mjkrkj.png",
     "definition": "come together and form one mass or whole."
@@ -493,5 +488,10 @@
     "word": "negligent",
     "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726158022/wordcorn/wordImages/memes/Negligent_dpnugd.png",
     "definition": "failing to take proper care or showing a lack of concern"
+  },
+  {
+    "word": "Chicanery",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331976/wordcorn/wordImages/memes/chicanery_gocpdc.png",
+    "definition": "the use of deception or subterfuge to achieve one's purpose."
   }
 ]
