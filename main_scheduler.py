@@ -38,7 +38,8 @@ def post_meme():
             continue
 
         caption = meme.get("word", "")
-        description = meme.get("definition", "")
+        definition = meme.get("definition", "")
+        description = f"{definition}\n\n🔗 Learn more words at [www.wordcorn.co](https://www.wordcorn.co)"
         # title = caption.strip()
         # print(f"Posting meme: {title}")
         try:
