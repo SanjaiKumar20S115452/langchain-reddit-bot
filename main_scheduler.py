@@ -3,26 +3,25 @@ import time
 import json
 import os
 from reddit_bot import post_to_reddit
+from firebase_admin import db
 
-POSTED_LOG = "posted_log.json"
+# POSTED_LOG = "posted_log.json"
+
 def load_posted2():
     try:
-        if os.path.exists(POSTED_LOG):
-            with open(POSTED_LOG, "r") as f:
-                data = json.load(f)
-                return set(data if data is not None else [])
-        else:
-            return set()
+        ref = db.reference("posted_memes")
+        data = ref.get()
+        return set(data or [])
     except Exception as e:
         print("Error loading posted_log.json:", e)
         return set()
     
 def save_posted2(posted_set):
     try:
-        with open(POSTED_LOG, "w") as f:
-            json.dump(list(posted_set), f)
+        ref = db.reference("posted_memes")
+        ref.set(list(posted_set))
     except Exception as e:
-        print("Error saving posted_log.json")
+        print("Error saving to Firebase:", str(e))
 
 def post_meme():
     posted = load_posted2()

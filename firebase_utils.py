@@ -8,10 +8,18 @@ if not firebase_admin._apps:
     })
 
 def load_posted_from_firebase():
-    ref = db.reference("posted_memes")
-    data = ref.get()
-    return set(data or [])
+    try:
+        ref = db.reference("posted_memes")
+        data = ref.get()
+        return set(data or [])
+    except Exception as e:
+        print("Error loading from Firebase:", str(e))
+        return set()
+
 
 def save_posted_to_firebase(posted_set):
-    ref = db.reference("posted_memes")
-    ref.set(list(posted_set))
+    try:
+        ref = db.reference("posted_memes")
+        ref.set(list(posted_set))
+    except Exception as e:
+        print("Error saving to Firebase:", str(e))
