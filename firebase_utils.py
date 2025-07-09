@@ -16,7 +16,7 @@ if not firebase_admin._apps:
     cred = credentials.Certificate(cred_dict)
 
     firebase_admin.initialize_app(cred, {
-        'databaseURL': 'https://wordcornredditbot-default-rtdb.firebaseio.com/'
+        'databaseURL': 'https://wordcornredditbot-default-rtdb.firebaseio.com'
     })
 
 def load_posted_from_firebase():
@@ -27,7 +27,6 @@ def load_posted_from_firebase():
     except Exception as e:
         print("Error loading from Firebase:", str(e))
         return set()
-
 
 def save_posted_to_firebase(posted_set):
     try:

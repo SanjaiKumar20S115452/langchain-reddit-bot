@@ -58,7 +58,6 @@ def start_bot():
     post_meme()
     
 
-
     # def load_posted():
 #     try:
 #         if os.path.exists(POSTED_LOG):
