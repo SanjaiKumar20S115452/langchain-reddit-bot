@@ -1,11 +1,23 @@
+import os
 import firebase_admin
 from firebase_admin import credentials, db
 
 if not firebase_admin._apps:
-    cred = credentials.Certificate("wordcornreddit.json")
+    # cred = credentials.Certificate("wordcornreddit.json")
+    # firebase_admin.initialize_app(cred, {
+    #     'databaseURL': 'https://wordcornredditbot-default-rtdb.firebaseio.com/'
+    # })
+    firebase_creds = os.getenv("FIREBASE_CREDENTIALS")
+    if firebase_creds is None:
+        raise Exception("FIREBASE_CREDENTIALS environment variable not set")
+
+    cred_dict = json.loads(firebase_creds)
+    cred = credentials.Certificate(cred_dict)
+
     firebase_admin.initialize_app(cred, {
         'databaseURL': 'https://wordcornredditbot-default-rtdb.firebaseio.com/'
     })
+
 
 def load_posted_from_firebase():
     try:
