@@ -1,10 +1,5 @@
 [
   {
-    "word": "Coalesce",
-    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331976/wordcorn/wordImages/memes/coalesce_mjkrkj.png",
-    "definition": "come together and form one mass or whole."
-  },
-  {
     "word": "Cogent",
     "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331977/wordcorn/wordImages/memes/cogent_ywrbto.png",
     "definition": "clear, logical, and convincing"
@@ -493,5 +488,10 @@
     "word": "Chicanery",
     "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331976/wordcorn/wordImages/memes/chicanery_gocpdc.png",
     "definition": "the use of deception or subterfuge to achieve one's purpose."
+  },
+  {
+    "word": "Coalesce",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331976/wordcorn/wordImages/memes/coalesce_mjkrkj.png",
+    "definition": "come together and form one mass or whole."
   }
 ]
