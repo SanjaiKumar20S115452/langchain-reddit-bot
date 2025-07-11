@@ -1,18 +1,13 @@
 [
   {
-    "word": "Cogent",
-    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331977/wordcorn/wordImages/memes/cogent_ywrbto.png",
-    "definition": "clear, logical, and convincing"
+    "word": "Copious",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331985/wordcorn/wordImages/memes/copious_tikvmi.png",
+    "definition": "abundant in supply or quantity"
   },
   {
     "word": "Contrite",
     "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1725987141/wordcorn/wordImages/memes/contrite_f43gmk.png",
     "definition": "feeling or expressing remorse or penitence; affected by guilt."
-  },
-  {
-    "word": "Copious",
-    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331985/wordcorn/wordImages/memes/copious_tikvmi.png",
-    "definition": "abundant in supply or quantity"
   },
   {
     "word": "Decorum",
@@ -493,5 +488,10 @@
     "word": "Coalesce",
     "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331976/wordcorn/wordImages/memes/coalesce_mjkrkj.png",
     "definition": "come together and form one mass or whole."
-  }
+  },
+  {
+    "word": "Cogent",
+    "memeurl": "https://res.cloudinary.com/dtbbxzcyq/image/upload/v1726331977/wordcorn/wordImages/memes/cogent_ywrbto.png",
+    "definition": "clear, logical, and convincing"
+  },
 ]
