@@ -1,15 +1,16 @@
+from firebase_utils import initialize_firebase
+initialize_firebase()
 import schedule
 import time
 import json
 import os
 from reddit_bot import post_to_reddit
 from firebase_admin import db
-from firebase_utils import initialize_firebase
 
 # POSTED_LOG = "posted_log.json"
 
 #Initializing firebase first
-initialize_firebase()
+
 
 def load_posted2():
     try:
